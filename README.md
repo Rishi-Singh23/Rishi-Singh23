@@ -28,5 +28,4 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi-Singh23&theme=tokyonight" />
 </p>
 
-![snake gif](https://github.com/Rishi-Singh23/Rishi-Singh23/blob/output/github-contribution-grid-snake.gif)
 
