@@ -2,7 +2,7 @@
 - 📝Visit My Linkedin [Linkedin](https://www.linkedin.com/in/rishisingh23/)
 
 
-- 📫 How to reach me **rishisinghblog@gmmail.com**
+- 📫 How to reach me **rishisinghblog@gmail.com**
 
 
 ![](https://komarev.com/ghpvc/?username=Rishi-Singh23&color=blueviolet&style=plastic&align=center)
